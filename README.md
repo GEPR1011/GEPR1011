@@ -58,6 +58,6 @@ Automações e sistemas interativos para comunidades, incluindo sistemas de mode
 
 <div align="center">
 
-*Dev @ NemonicRP · Plugins que transformam servidores em experiências*
+*Dev @ NemonicRP*
 
 </div>
