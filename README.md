@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Guilherme+Elias+%7C+GEPR;Full+Stack+Dev+%40+NemonicRP;Minecraft+Plugins+%7C+Discord+Bots" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-elias-8b5b6b255/)
-[![Discord](https://img.shields.io/badge/Discord-gepr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](.)
+[![Discord](https://img.shields.io/badge/Discord-gepr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/764582953777889290)
 [![Email](https://img.shields.io/badge/Email-geprworkout%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geprworkout@gmail.com)
 
 </div>
