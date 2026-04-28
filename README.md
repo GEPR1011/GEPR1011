@@ -37,22 +37,8 @@ Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor M
 - 50+ modificadores em 5 tipos de equipamento
 - Sistema de Raridades em 4 Tiers (Comum → Mágico → Raro → Único)
 - 3 Mesas de Classe: Alquimista, Ferreiro (mini-game) e Mercador
-- Polimento com ganho acumulado de até +47% nos stats
+- Sistema de progressão saudavel e duradouro
 - Suporte a MMOCore e MMOItems · Totalmente configurável via YAML
-
-### 🤖 Bots para Discord
-Automações e sistemas interativos para comunidades, incluindo sistemas de moderação, integração com APIs externas e bots de utilidade para servidores de jogos.
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEPR1011&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEPR1011&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
