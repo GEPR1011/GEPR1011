@@ -38,7 +38,7 @@ Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor M
 - Sistema de Raridades em 4 Tiers (Comum → Mágico → Raro → Único)
 - 3 Mesas de Classe: Alquimista, Ferreiro (mini-game) e Mercador
 - Polimento com ganho acumulado de até +47% nos stats
-- Suporte a itens Vanilla e MMOItems · Totalmente configurável via YAML
+- Suporte a MMOCore e MMOItems · Totalmente configurável via YAML
 
 ### 🤖 Bots para Discord
 Automações e sistemas interativos para comunidades, incluindo sistemas de moderação, integração com APIs externas e bots de utilidade para servidores de jogos.
