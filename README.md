@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor Minecraft Java de RPG. Especializado em plugins Java para Minecraft e sistemas de automação, com foco em sistemas complexos de gameplay inspirados em ARPGs modernos como Path of Exile 2.
+Desenvolvedor Full Stack. Especializado em plugins Java para Minecraft e sistemas de automação, com foco em sistemas complexos de gameplay inspirados em ARPGs modernos como Path of Exile 2.
 
 ---
 
@@ -30,7 +30,7 @@ Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor M
 
 ## 🚀 Projetos em Destaque
 
-### ✦ [NemonicOrbPlugin](https://github.com/GEPR1011/NemonicORB)
+### ✦ [OrbPlugin](https://github.com/GEPR1011/OrbPlugin)
 > Sistema completo de modificação de itens para Minecraft Java, inspirado em Path of Exile 2.
 
 - 9 Orbs consumíveis com comportamentos únicos
@@ -44,6 +44,6 @@ Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor M
 
 <div align="center">
 
-*Dev @ NemonicRP*
+*Dev*
 
 </div>
